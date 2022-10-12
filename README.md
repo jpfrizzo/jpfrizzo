@@ -17,7 +17,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  
  <br>
  
-  ### Redes a baixo!
+  ### Minhas Redes! 
  
 <div>
  <a href="https://www.instagram.com/jpfrizzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
